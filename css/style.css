@@ -417,7 +417,10 @@ blockquote {
 }
 
 footer {
-    background-color: rgb(85, 228, 247) !important;
+    background-color: #243762 !important;
+}
+.page-footer a {
+    color: white;
 }
 
 #waves-effect {
